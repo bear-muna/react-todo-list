@@ -1,6 +1,6 @@
 import React from "react";
-import PortfolioContainer from "./components/PortfolioContainer";
+import TodoList from "./components/TodoList";
 
-const App = () => <PortfolioContainer />;
+const App = () => <TodoList />;
 
 export default App;
